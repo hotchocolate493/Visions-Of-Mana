@@ -241,4 +241,4 @@ Visions of Mana is available as a complete free version for Windows, providing a
 Start your epic adventure today and download Visions of Mana for free!
 
 ---
-**Last updated:** 2026-11-06 09:08:50 UTC
+**Last updated:** 2026-11-06 17:17:27 UTC
